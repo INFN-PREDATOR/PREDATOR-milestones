@@ -1,8 +1,0 @@
-# Dimensions
-1 1 1 1 1 51 1 1 1 1 1 1 1 1 1 1 
-# Command
-scale 0.000001 tmp3.coo /home/physics-recon/T1/T1-TI 
-# Files
- >/home/physics-recon/T1/T1-TI <tmp3.coo
-# Creator
-BART v0.9.00
