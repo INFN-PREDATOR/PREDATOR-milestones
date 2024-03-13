@@ -5,18 +5,10 @@ The [notebooks](https://github.com/INFN-PREDATOR/PREDATOR-milestones/tree/main/n
 the deliverables planned for the milestone M1 of the project. Specifically:
 
 * Milestone M1 - development of a computational framework for quantitative MR reconstruction.
-    - <a target="_blank" href="https://colab.research.google.com/github/INFN-PREDATOR/PREDATOR-milestones/blob/main/notebooks/M1a_reading_writing.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a> M1a: implementation of data I/O routines.
-    - <a target="_blank" href="https://colab.research.google.com/github/INFN-PREDATOR/PREDATOR-milestones/blob/main/notebooks/M1b_MR_operators.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a> M1b: implementation of MR encoding operators.
-    - <a target="_blank" href="https://colab.research.google.com/github/INFN-PREDATOR/PREDATOR-milestones/blob/main/notebooks/M1c_iterative_reco.ipynb">M1c: implementation of the main regularizers and solvers for iterative reconstruction.
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
-    - <a target="_blank" href="https://colab.research.google.com/github/INFN-PREDATOR/PREDATOR-milestones/blob/main/notebooks/M1d_Bloch_simulator.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a> M1d: implementation of a numerical Bloch simulator for synthetic data generation and parameter fitting.
+    - <a target="_blank" href="https://colab.research.google.com/github/INFN-PREDATOR/PREDATOR-milestones/blob/main/notebooks/M1a_reading_writing.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> M1a: implementation of data I/O routines.
+    - <a target="_blank" href="https://colab.research.google.com/github/INFN-PREDATOR/PREDATOR-milestones/blob/main/notebooks/M1b_MR_operators.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> M1b: implementation of MR encoding operators.
+    - <a target="_blank" href="https://colab.research.google.com/github/INFN-PREDATOR/PREDATOR-milestones/blob/main/notebooks/M1c_iterative_reco.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> M1c: implementation of the main regularizers and solvers for iterative reconstruction.
+    - <a target="_blank" href="https://colab.research.google.com/github/INFN-PREDATOR/PREDATOR-milestones/blob/main/notebooks/M1d_Bloch_simulator.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> M1d: implementation of a numerical Bloch simulator for synthetic data generation and parameter fitting.
 
 Milestone M2 consisted in the creation of a database of quantitative maps (T1, T2, T2*) of at least 10 subjects
 to be used for synthetic data generation for DL-based reconstruction training.
